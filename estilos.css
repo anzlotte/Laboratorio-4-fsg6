@@ -1,3 +1,8 @@
-body { 
-    font-family: Arial, sans-serif; 
+body {
+    background-color: #f0f0f0; /* fondo más claro */
+    color: #333; /* texto más oscuro */
+}
+
+h1, h2, h3 {
+    color: #ff5722; /* un color vibrante para los encabezados */
 }
